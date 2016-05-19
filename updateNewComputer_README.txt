@@ -21,5 +21,7 @@ EX: "c:\myname\scripts\"
 Execute script:
 EX: ".\update active directory new computer.ps1"
 
-It will prompt for computer name, then enter the description. It will output the new details of
+You will get a prompt for the computer name, then the description. It will output the new details of
 the computer once finished.
+
+After this, enter 'y' to do another, or n to stop.
